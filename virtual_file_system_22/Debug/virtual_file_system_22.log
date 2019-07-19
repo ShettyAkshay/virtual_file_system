@@ -1,0 +1,96 @@
+﻿Build started 5/26/2019 3:11:12 PM.
+     1>Project "C:\Users\LENOVO\Favorites\Documents\Visual Studio 2012\Projects\virtual_file_system_22\virtual_file_system_22\virtual_file_system_22.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt vfs2.cpp
+         vfs2.cpp
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(160): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(165): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(170): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(175): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(180): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(185): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(190): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(195): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(200): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(205): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(210): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(215): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(236): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(315): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(672): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _open. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\io.h(315) : see declaration of 'open'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(703): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _open. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\io.h(315) : see declaration of 'open'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(726): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(881) : see declaration of '_sleep'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(748): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(815): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(820): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(826): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(832): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(858): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _close. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\io.h(305) : see declaration of 'close'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(867): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(881) : see declaration of '_sleep'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(869): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(881) : see declaration of '_sleep'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(872): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(881) : see declaration of '_sleep'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(874): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(881) : see declaration of '_sleep'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(878): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(891): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(896): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(905): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(914): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(921): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(928): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(932): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(964): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(978): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(993): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(1007): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(1048): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(346): warning C4715: 'rm_file' : not all control paths return a value
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(586): warning C4715: 'CreateFileW' : not all control paths return a value
+     1>c:\users\lenovo\favorites\documents\visual studio 2012\projects\virtual_file_system_22\virtual_file_system_22\vfs2.cpp(660): warning C4715: 'LseekFile' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\LENOVO\Favorites\Documents\Visual Studio 2012\Projects\virtual_file_system_22\Debug\virtual_file_system_22.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\LENOVO\Favorites\Documents\Visual Studio 2012\Projects\virtual_file_system_22\Debug\virtual_file_system_22.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\LENOVO\Favorites\Documents\Visual Studio 2012\Projects\virtual_file_system_22\Debug\virtual_file_system_22.lib" /MACHINE:X86 Debug\vfs2.obj
+         virtual_file_system_22.vcxproj -> C:\Users\LENOVO\Favorites\Documents\Visual Studio 2012\Projects\virtual_file_system_22\Debug\virtual_file_system_22.exe
+     1>Done Building Project "C:\Users\LENOVO\Favorites\Documents\Visual Studio 2012\Projects\virtual_file_system_22\virtual_file_system_22\virtual_file_system_22.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.32
